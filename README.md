@@ -9,6 +9,8 @@ homework #1
 
 -added white color tag to .benefits to simplify/consolidate CSS
 
+-changed div tag to nav tag in header for semantics
+
 -added two br tags, one after Lead Generation section and one after Brand Awareness section to add separation to the info, while able to consolidate and simplify tags on CSS
 
 -created one benefit-all img class tag on HTML to simplify/consolidate CSS by removing multiple tags for each benefit
