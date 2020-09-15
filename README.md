@@ -11,6 +11,8 @@ homework #1
 
 -changed div tag to nav tag in header for semantics
 
+-changed header div tags on CSS to correlate with the change to the nav tag..;header nav, header nav ul, header nav ul li
+
 -added two br tags, one after Lead Generation section and one after Brand Awareness section to add separation to the info, while able to consolidate and simplify tags on CSS
 
 -created one benefit-all img class tag on HTML to simplify/consolidate CSS by removing multiple tags for each benefit
